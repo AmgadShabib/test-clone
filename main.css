@@ -1,0 +1,23 @@
+
+.span1{
+    font-size: 18px;
+    margin-left: 150px ;
+    
+}
+
+
+li{
+    display: inline;
+    float:right ;
+   margin-right: 20px;
+   
+}
+
+.span2{
+    display: inline;
+    float: right;
+    margin-left: 40 px;
+    margin-right: 200px;
+    background-color: brown;
+    color: aliceblue;
+}
