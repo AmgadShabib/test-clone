@@ -1,0 +1,52 @@
+.chania{
+    background-color: gray;
+    height: 80px;
+    margin-top: 30px;
+    color: aliceblue;
+        margin-left: 40px;
+        margin-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+}
+ul{
+    display: inline-block;
+    float: left;
+    margin-left: 50px;
+    margin-top: 1px;
+}
+li{
+    background-color: rgb(5, 169, 245);
+    font-size: xx-large;
+   color: aliceblue;
+    width: 300px;
+    height: 45px;
+    padding-top: 5%;
+    padding-left: 7px;
+    list-style: none;
+    margin-bottom: 10px;
+    margin-left: -32px;
+}
+.pp{
+    display: inline-block;
+    margin-left: 20px;
+    flex-wrap: wrap;
+    font-size: x-large;
+    
+}
+
+
+
+
+
+.textfooter{
+    background-color: gray;
+    height: 80px;
+    color: aliceblue;
+    margin-top: 40px;
+        margin-left: 40px;
+        margin-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+}
